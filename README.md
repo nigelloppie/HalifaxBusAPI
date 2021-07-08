@@ -13,7 +13,7 @@
 <br>
 <h2>Bus Info</h3>
 <p>When a user clicks on a bus information will be displayed about the current bus</p>
-<img alt="Bus Info Screenshot" src="images/BusInfo.png?raw=true" height="auto" width="100px" align="center">
+<img alt="Bus Info Screenshot" src="images/BusInfo.png?raw=true" height="auto" width="100%" align="center">
 <br>
 <h2>Zoomed in view</h3>
 <p>Up close view of the buses on the map</p>
