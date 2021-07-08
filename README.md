@@ -1,5 +1,3 @@
-# HalifaxBusAPI
-
 <h1>Halifax Buses using Halifax bus API<h1>
   
 <h1>Created by</h3>
@@ -17,7 +15,7 @@
 <br>
 <h2>Zoomed in view</h3>
 <p>Up close view of the buses on the map</p>
-<img alt="Zoomed in bus Screenshot" src="images/BusesZoomed.png?raw=true" height="auto" width="75%" align="center">
+<img alt="Zoomed in bus Screenshot" src="images/BusesZoomed.png?raw=true" height="auto" width="%" align="center">
 <br>
 <div>
   <h1>Project Resources</h1>
