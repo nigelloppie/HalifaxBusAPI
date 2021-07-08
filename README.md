@@ -1,6 +1,6 @@
 <h1>Halifax Buses using Halifax bus API<h1>
   
-<h1>Created by</h3>
+<h1>Created by</h1>
 <ul>
   <li>Nigel Loppie</li>
 </ul>
